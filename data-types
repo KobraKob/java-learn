@@ -1,0 +1,28 @@
+
+public class Demo4 {
+
+	public static void main(String[] args) {
+		
+		
+		short a =10;
+		int b = 500;
+		long c = 1000000000; 
+		float d = 4.5f;
+		double e = 4.5555555;
+		boolean f = true;
+		char g = 'a';
+		byte h = 122;
+		
+		
+		System.out.println(a);
+		System.out.println(b);
+		System.out.println(c);
+		System.out.println(d);
+		System.out.println(e);
+		System.out.println(f);
+		System.out.println(g);
+		System.out.println(h);
+		
+	}
+
+}
