@@ -1,0 +1,17 @@
+
+public class Demo5 {
+	
+	public static void display() {
+		
+		System.out.println("Hi from display 1");
+	}
+
+	public static void main(String[] args) {
+		
+		display();
+                                                         
+	
+	
+	
+	                               }
+	}
