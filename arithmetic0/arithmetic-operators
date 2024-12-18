@@ -1,0 +1,30 @@
+
+public class Demo3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		int x = 45;
+		int  y = 10;
+		
+		double a=45;
+		double b = 10;
+		
+		int sum;
+		int sub;
+		int multi;
+		double div;
+		sum= x + y;
+		sub = x-y;
+		multi= x*y;
+		div = a/b;
+		
+		System.out.println("The sum of X and Y is " + sum);
+		System.out.println("The Difference of X and Y is " +sub);
+		System.out.println("The Multiplication of X and Y is " + multi);
+		System.out.println("The Division of X and Y is " + div);
+
+	}
+
+}
